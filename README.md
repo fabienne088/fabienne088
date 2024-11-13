@@ -1,7 +1,7 @@
 # Hi there 👋 , I’m Fabienne.
 👀 **I’m interested in** data analysis, machine learning, and generative AI, with a passion for using data to generate insights that drive business decisions. I’m particularly focused on how data can be applied to solve real-world problems in health, sustainability, and technology.
 
-🌱 **I’m currently learning** ...
+🌱 **I’m currently learning** Azure, ...
 
 💞️ **I’m looking to collaborate on** projects related to data analysis, machine learning, and AI. I’m especially excited to work with others in fields such as sustainability, healthcare, or business analytics to create impactful data-driven solutions.
 
@@ -13,7 +13,7 @@
 
 ⚡ **Fun fact:** I love playing the clarinet in my free time and enjoy volunteering for community projects. I’m also passionate about continuous learning and always looking for new opportunities to grow!
 
-# Languages and Tools
+# 🔧 Languages and Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
